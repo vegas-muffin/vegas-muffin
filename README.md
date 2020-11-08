@@ -19,7 +19,6 @@
 <img align="left" alt="GitHub" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Adobe_Photoshop_CS5_icon.svg" />
 
-</br>
 # Portfolio
 Calculator - https://vegas-muffin.github.io/calculator/
 
