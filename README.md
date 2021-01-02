@@ -27,6 +27,8 @@
 # Portfolio & Demo Pet Project
 Calculator - https://vegas-muffin.github.io/calculator/
 <br/>Weather - https://vegas-muffin.github.io/weather/
+<br/>English-Cards - https://vegas-muffin.github.io/english-cards/english-cards/dist/
+<br/>Shelter-Site - https://vegas-muffin.github.io/shelter/pages/main/index.html
 
 # English Level
 A2+
