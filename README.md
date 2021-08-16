@@ -1,5 +1,5 @@
 ### Hi there, I'm Vagiz 👋
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React&Redux.
 
 # Connect with me:
 | social media :speech_balloon: | link :link:                        |
