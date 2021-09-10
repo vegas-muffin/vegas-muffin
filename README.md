@@ -25,10 +25,12 @@
 
 
 # Portfolio & Demo Pet Project
-Calculator - https://vegas-muffin.github.io/calculator/
+Covid2019 App Pet-Team Project - vegas-muffin.github.io/covid19/dist/
+<br/>Shelter-site Pet-project - https://vegas-muffin.github.io/shelter/pages/main/index.html
+<br/>Online-zoo Pet-project - https://vegas-muffin.github.io/online-zoo/app/index.html
+<br/>Calculator - https://vegas-muffin.github.io/calculator/
 <br/>Weather - https://vegas-muffin.github.io/weather/
 <br/>English-Cards - https://vegas-muffin.github.io/english-cards/english-cards/dist/
-<br/>Shelter-Site - https://vegas-muffin.github.io/shelter/pages/main/index.html
 
 # English Level
 A2+
