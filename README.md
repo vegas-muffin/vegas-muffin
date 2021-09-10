@@ -25,7 +25,7 @@
 
 
 # Portfolio & Demo Pet Project
-Covid2019 App Pet-Team Project - vegas-muffin.github.io/covid19/dist/
+Covid2019 App Pet-Team Project - https://vegas-muffin.github.io/covid19/dist/
 <br/>Shelter-site Pet-project - https://vegas-muffin.github.io/shelter/pages/main/index.html
 <br/>Online-zoo Pet-project - https://vegas-muffin.github.io/online-zoo/app/index.html
 <br/>Calculator - https://vegas-muffin.github.io/calculator/
