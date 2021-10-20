@@ -5,7 +5,7 @@
 | social media :speech_balloon: | link :link:                        |
 | ----------------------------- | ---------------------------------- |
 | **telegram**                  | [t.me](https://t.me/dVagiz)        |
-| **WhatsApp**                  | [wa.me](https://wa.me/77715264644) |
+| **WhatsApp**                  | [wa.me](https://wa.me/77754116593) |
 
 # Languages & Tools:
 
