@@ -1,11 +1,11 @@
-### Hi there, I'm Vagiz 👋
+### Hi there, I'm Vega 👋
 - 🌱 I’m currently learning React&Redux.
 
 # Connect with me:
 | social media :speech_balloon: | link :link:                        |
 | ----------------------------- | ---------------------------------- |
-| **telegram**                  | [t.me](https://t.me/dVagiz)        |
-| **WhatsApp**                  | [wa.me](https://wa.me/77754116593) |
+| **telegram**                  |        |
+| **WhatsApp**                  |  |
 
 # Languages & Tools:
 
